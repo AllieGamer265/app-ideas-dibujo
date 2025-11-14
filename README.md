@@ -1,20 +1,11 @@
 # App de Ideas para Dibujar
 
-Una sencilla aplicación web que te ayuda a encontrar inspiración para tus dibujos. Responde a unas pocas preguntas y obtén una idea creativa para tu próxima obra.
+Una sencilla aplicación web que te ayuda a encontrar inspiración para tus dibujos. Responde a unas pocas preguntas, como tus colores favoritos, y la aplicación te sugerirá ideas creativas para tu próxima obra de arte.
 
-## Características
-
-*   Cuestionario interactivo para entender tus preferencias.
-*   Generación de ideas de dibujo.
-*   Interfaz simple y fácil de usar.
+## Características Planeadas
+- Cuestionario interactivo para conocer tus preferencias.
+- Generación de ideas de dibujo basadas en tus respuestas.
+- Paletas de colores sugeridas.
 
 ## Cómo Empezar
-
-1.  Clona este repositorio.
-2.  Abre el archivo `index.html` en tu navegador web.
-
-## Tecnologías Utilizadas
-
-*   HTML
-*   CSS
-*   JavaScript
+Próximamente...
